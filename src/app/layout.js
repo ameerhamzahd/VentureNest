@@ -9,7 +9,7 @@ import "./globals.css";
 
 export default function RootLayout() {
   return (
-    <html lang="en" data-theme="light" class="scroll-smooth">
+    <html lang="en" data-theme="light">
       <body>
         <header>
           <Navbar></Navbar>
